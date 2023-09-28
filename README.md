@@ -1,2 +1,2 @@
-# Codsoft
+# Codsoft_Python_tasks_internee
 internship task repositery
